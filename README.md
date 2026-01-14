@@ -19,6 +19,7 @@ Sou um profissional em transição de carreira para a Engenharia de Software, tr
 ---
 
 ### 📊 Sobre mim:
+
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNINOVE.
 - 👨‍💻 Aprimorando habilidades técnicas na **Origamid**.
 - 💼 Experiência sólida em **Liderança, Gestão de Processos e Resolução de Problemas**.
@@ -27,4 +28,5 @@ Sou um profissional em transição de carreira para a Engenharia de Software, tr
 ---
 
 ### Minhas Contribuições:
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leoobrands&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
