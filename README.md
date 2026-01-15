@@ -22,7 +22,7 @@ Sou um profissional em transição de carreira para a Engenharia de Software, tr
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNINOVE.
 - 👨‍💻 Aprimorando habilidades técnicas na **Origamid**.
 - 💼 Experiência sólida em **Liderança, Gestão de Processos e Resolução de Problemas**.
-- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/leonardo-brandao-dev/)
+- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/leonardobrandao158/)
 
 ---
 
